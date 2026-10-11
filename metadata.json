@@ -1,0 +1,6 @@
+{
+  "name": "L'Étoile Pâtisserie | Haute Pâtisserie & 3D Atelier",
+  "description": "An exquisite luxury French pâtisserie atelier featuring interactive 3D handcrafted cakes, glazed brioche donuts, crisp macarons, and artisanal viennoiserie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
